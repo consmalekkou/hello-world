@@ -1,4 +1,5 @@
 # hello-world
 Hi everyone!
-I am Constantia. 
-I am 41 years old and I have 3 small children!
+I am Constantia Malekkou. 
+I am a bank employee, and I have a BSc in Computer Science. 
+Currently I am pursuing a MSc in Data Science with the University of Nicosia.
